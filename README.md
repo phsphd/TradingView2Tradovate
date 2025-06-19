@@ -1,4 +1,4 @@
-# TradingView to Tradovate Bridge
+# TradingView to Tradovate Trading Bot
 
 **Automated Trading Bridge v1.0** - Seamlessly execute TradingView alerts as live trades on Tradovate
 
